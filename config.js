@@ -6,8 +6,8 @@ var config = {
     alignment: 'left',
     title: 'A matleave map',
     //subtitle: 'A matleave map',
-    byline: 'By Elise',
-    footer: 'Source: source citations, etc.',
+    byline: 'Warning, baby spam to follow',
+    footer: '',
     chapters: [
         {
             id: 'slug-style-id',
