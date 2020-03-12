@@ -60,11 +60,11 @@ var config = {
             },
             onChapterEnter: [],
             onChapterExit: []
-            },
+        },
         {
             id: 'other-identifier',
             title: 'My original thoughts on mat leave',
-            image: 'https://lh3.googleusercontent.com/b4F88OBL9KR1micV3s3EI3UC1gF9Yg1CSYlBhb1AR05xEkQHcLbiH40LW_eLHJ_n5m1NscQ2qU6vVLOvbGgE_Xq756yoTi-VgV36-Qb9XK0H5ueEcUK5YGE0td-Htw7IFM5i02zOlQ=w2400',
+            image: 'https://lh3.googleusercontent.com/vkp2WfNYpjGLD-MGTQLudjtqamgRqxsJnGX6BWv5OmC_ZTx-MZIIdsWKvZRd-8XkAHtvBNM05RtWDJrq7SU_3aGfVzE02u4-EvZijnimorK41s9YF-6DDgW15ac_7sdY_0CXSc73VQ=w2400',
             description: 'I knew this already, but all you mums out there ARE SUPERHUMAN and deserve to be celebrated every day of the year',
             location: {
               center: { lon: 150.96572, lat: -34.10155 },
