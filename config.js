@@ -54,9 +54,9 @@ var config = {
             description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems',
             location: {
               center: { lon: 151.08067, lat: -34.00225 },
-                zoom: 9.43,
-                pitch: 0.00,
-                bearing: 0.00
+              zoom: 9.43,
+              pitch: 0.00,
+              bearing: 0.00
             },
             onChapterEnter: [],
             onChapterExit: []
