@@ -51,6 +51,20 @@ var config = {
             id: 'other-identifier',
             title: 'But we spent alot of time at home',
             image: 'https://lh3.googleusercontent.com/p6nkmopmEYS0pMmOiXkz3hzZ_PHgBOGVcNm4Y88CmU61uox3jk9k8OiiUW8_N3O65O_QlPWDZLP1mzxMQQ_6Senyh35i5E-PXtLUiJvl_7IJVkqyE9RKEpwTsGzCll1gv5u0iIUPWA=w2400',
+            description: 'But getting into nature helped. This is his first bushwalk, in the RNP',
+            location: {
+              center: { lon: 151.06152, lat: -34.06264 },
+              zoom: 11.32,
+              pitch: 45.00,
+              bearing: 3.25
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'But we spent alot of time at home',
+            image: 'https://lh3.googleusercontent.com/p6nkmopmEYS0pMmOiXkz3hzZ_PHgBOGVcNm4Y88CmU61uox3jk9k8OiiUW8_N3O65O_QlPWDZLP1mzxMQQ_6Senyh35i5E-PXtLUiJvl_7IJVkqyE9RKEpwTsGzCll1gv5u0iIUPWA=w2400',
             description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems',
             location: {
               center: { lon: 151.08338, lat: -34.00172 },
@@ -60,11 +74,11 @@ var config = {
             },
             onChapterEnter: [],
             onChapterExit: []
-        },
+          },
         {
             id: 'other-identifier',
             title: 'My original thoughts on mat leave',
-            image: 'https://lh3.googleusercontent.com/vkp2WfNYpjGLD-MGTQLudjtqamgRqxsJnGX6BWv5OmC_ZTx-MZIIdsWKvZRd-8XkAHtvBNM05RtWDJrq7SU_3aGfVzE02u4-EvZijnimorK41s9YF-6DDgW15ac_7sdY_0CXSc73VQ=w2400',
+            image: 'https://lh3.googleusercontent.com/E6wY4yehW2NH6gsP3kIHeCxyjHBLPdcPbyRcwN8zXGzTTPo8Du6rf0H4tRHlhBi4el49BqTYa_KQ3kLEOZCCn7f6EC1LavwhJ7Kw5SoH9RZZKiq1Raw56afFJcXu-OJJYPQXNo7O1g=w2400',
             description: 'I knew this already, but all you mums out there ARE SUPERHUMAN and deserve to be celebrated every day of the year',
             location: {
               center: { lon: 150.96572, lat: -34.10155 },
