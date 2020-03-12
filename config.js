@@ -13,7 +13,7 @@ var config = {
             id: 'slug-style-id',
             title: 'Born at Sutherland Hospital',
             image: 'https://lh3.googleusercontent.com/e_TUD7Zr_0SmqBgLZEdu8II_D01RirC2DMWgnRAKSTPvXuQIthH3O7ADMjdG7FjZUvU8qkglNqjVeoCb6ayG9-iBljVxd7X_fio83fY5BY2aewAUDwJTzINuvfB5IbMWujiUaem6_w=w2400',
-            description: 'In April 19, after 17 hours of labour... and thats all i will say about that',
+            description: 'On April 19, after 17 hours of labour... and thats all i will say about that',
             location: {
                 center: { lon: 151.11490, lat: -34.03661 },
                 zoom: 14.11,
@@ -51,7 +51,35 @@ var config = {
             id: 'other-identifier',
             title: 'But we spent alot of time at home',
             https: '//lh3.googleusercontent.com/ayLWzd8PLyAKA6kCtXv4kixFlzYHNKUJl5s-3G5TNjvWNN8L5OUP7F99RgwQ4svH9tdjqqdWbL2mDJ9BtR7wumzXN8BaqQxObtAqKDQV0kUK3YtaCv8XPI6HKV9AT1dT1F2e2MluHQ=w2400',
-            description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems, ',
+            description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems',
+            location: {
+              center: { lon: 151.08067, lat: -34.00225 },
+                zoom: 9.43,
+                pitch: 0.00,
+                bearing: 0.00
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'My original thoughts on mat leave',
+            https: 'https://lh3.googleusercontent.com/b4F88OBL9KR1micV3s3EI3UC1gF9Yg1CSYlBhb1AR05xEkQHcLbiH40LW_eLHJ_n5m1NscQ2qU6vVLOvbGgE_Xq756yoTi-VgV36-Qb9XK0H5ueEcUK5YGE0td-Htw7IFM5i02zOlQ=w2400',
+            description: 'I knew this already, but all you mums out there ARE SUPERHUMAN',
+            location: {
+              center: { lon: 151.08067, lat: -34.00225 },
+                zoom: 9.43,
+                pitch: 0.00,
+                bearing: 0.00
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'My original thoughts on mat leave',
+            https: 'https://lh3.googleusercontent.com/b4F88OBL9KR1micV3s3EI3UC1gF9Yg1CSYlBhb1AR05xEkQHcLbiH40LW_eLHJ_n5m1NscQ2qU6vVLOvbGgE_Xq756yoTi-VgV36-Qb9XK0H5ueEcUK5YGE0td-Htw7IFM5i02zOlQ=w2400',
+            description: 'I knew this already, but all you mums out there ARE SUPERHUMAN and deserve to be celebrated every day of the year',
             location: {
               center: { lon: 151.08067, lat: -34.00225 },
                 zoom: 9.43,
@@ -61,5 +89,6 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         }
+
     ]
 };
