@@ -102,6 +102,48 @@ var config = {
             },
             onChapterEnter: [],
             onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'And another road through through the Snowys',
+            https: 'https://lh3.googleusercontent.com/lJtCJ-dSpdFS4cdwbVCpmcCmfDkm0YqmcS7jLmDGrAeqMzTZky_ngizJg94g_BLLK1-qm82EdNvYBhG6MPN2Pm6HfwLacdOvuz9VezmG4jYEhlHYitg4B_3sBHi8sP2LICLi0fuglg=w2400',
+            description: 'Down to Thredo...',
+            location: {
+              center: { lon: 148.29648, lat: -36.50096 },
+              zoom: 9.30,
+              pitch: 59.50,
+              bearing: 0.00
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'And another road through through the Snowys',
+            https: 'https://lh3.googleusercontent.com/l1gfVWY8ZMu8IsaoHuCFpKqpiwOQIRVBAfuiDMcBbTNnjPQDBK8yVNwP3usPlXDJ_DAQ_JFa1QVnG3Y0JIWtylGS_9QL8ZhyU21_t5o02dkJhbOZRO8PRSvxJSea-2T1fTa7dtBkFA=w2400',
+            description: '..and up the alpine pass to Yarrongobilly and Tumut. Again, we were lucky to visit before the devestating fires hit out there in December',
+            location: {
+              center: { lon: 148.33650, lat: -36.10174 },
+              zoom: 9.32,
+              pitch: 0.00,
+              bearing: 0.00
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'But now back to work',
+            https: 'https://lh3.googleusercontent.com/vkp2WfNYpjGLD-MGTQLudjtqamgRqxsJnGX6BWv5OmC_ZTx-MZIIdsWKvZRd-8XkAHtvBNM05RtWDJrq7SU_3aGfVzE02u4-EvZijnimorK41s9YF-6DDgW15ac_7sdY_0CXSc73VQ=w2400',
+            description: 'and looking forward to working with you all again. But know that i have another job now, and missing this face each and everyday. Thanks for staying with my story till the end!',
+            location: {
+              center: { lon: 151.20251, lat: -33.87253 },
+              zoom: 14.16,
+              pitch: 59.00,
+              bearing: -15.20
+            },
+            onChapterEnter: [],
+            onChapterExit: []
         }
 
     ]
