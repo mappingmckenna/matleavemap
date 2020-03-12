@@ -50,7 +50,7 @@ var config = {
         {
             id: 'other-identifier',
             title: 'But we spent alot of time at home',
-            https: 'https://lh3.googleusercontent.com/p6nkmopmEYS0pMmOiXkz3hzZ_PHgBOGVcNm4Y88CmU61uox3jk9k8OiiUW8_N3O65O_QlPWDZLP1mzxMQQ_6Senyh35i5E-PXtLUiJvl_7IJVkqyE9RKEpwTsGzCll1gv5u0iIUPWA=w2400',
+            image: 'https://lh3.googleusercontent.com/p6nkmopmEYS0pMmOiXkz3hzZ_PHgBOGVcNm4Y88CmU61uox3jk9k8OiiUW8_N3O65O_QlPWDZLP1mzxMQQ_6Senyh35i5E-PXtLUiJvl_7IJVkqyE9RKEpwTsGzCll1gv5u0iIUPWA=w2400',
             description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems',
             location: {
               center: { lon: 151.08067, lat: -34.00225 },
@@ -64,7 +64,7 @@ var config = {
         {
             id: 'other-identifier',
             title: 'My original thoughts on mat leave',
-            https: 'https://lh3.googleusercontent.com/b4F88OBL9KR1micV3s3EI3UC1gF9Yg1CSYlBhb1AR05xEkQHcLbiH40LW_eLHJ_n5m1NscQ2qU6vVLOvbGgE_Xq756yoTi-VgV36-Qb9XK0H5ueEcUK5YGE0td-Htw7IFM5i02zOlQ=w2400',
+            image: 'https://lh3.googleusercontent.com/b4F88OBL9KR1micV3s3EI3UC1gF9Yg1CSYlBhb1AR05xEkQHcLbiH40LW_eLHJ_n5m1NscQ2qU6vVLOvbGgE_Xq756yoTi-VgV36-Qb9XK0H5ueEcUK5YGE0td-Htw7IFM5i02zOlQ=w2400',
             description: 'I knew this already, but all you mums out there ARE SUPERHUMAN and deserve to be celebrated every day of the year',
             location: {
               center: { lon: 150.96572, lat: -34.10155 },
@@ -78,7 +78,7 @@ var config = {
         {
             id: 'other-identifier',
             title: 'We did manage to get away a few times',
-            https: 'https://lh3.googleusercontent.com/018A7aaw6eCL93dhqp5T55UWW6NHsRikNJbHQjmJd96uYkQNiEb8hnJHrVMJYw00h93Z8vPltoSIfYKoh2yiV_XUppAix76O1NZL2o8FAxghESoRTM6u8jAs4BEJRma8xaCYkN8Utw=w2400',
+            image: 'https://lh3.googleusercontent.com/018A7aaw6eCL93dhqp5T55UWW6NHsRikNJbHQjmJd96uYkQNiEb8hnJHrVMJYw00h93Z8vPltoSIfYKoh2yiV_XUppAix76O1NZL2o8FAxghESoRTM6u8jAs4BEJRma8xaCYkN8Utw=w2400',
             description: 'For a road trip up to Yamba, via blueys beach',
             location: {
               center: { lon: 152.49518, lat: -32.35828 },
@@ -106,7 +106,7 @@ var config = {
         {
             id: 'other-identifier',
             title: 'And another road through through the Snowys',
-            https: 'https://lh3.googleusercontent.com/lJtCJ-dSpdFS4cdwbVCpmcCmfDkm0YqmcS7jLmDGrAeqMzTZky_ngizJg94g_BLLK1-qm82EdNvYBhG6MPN2Pm6HfwLacdOvuz9VezmG4jYEhlHYitg4B_3sBHi8sP2LICLi0fuglg=w2400',
+            image: 'https://lh3.googleusercontent.com/lJtCJ-dSpdFS4cdwbVCpmcCmfDkm0YqmcS7jLmDGrAeqMzTZky_ngizJg94g_BLLK1-qm82EdNvYBhG6MPN2Pm6HfwLacdOvuz9VezmG4jYEhlHYitg4B_3sBHi8sP2LICLi0fuglg=w2400',
             description: 'Down to Thredo...',
             location: {
               center: { lon: 148.29648, lat: -36.50096 },
@@ -120,7 +120,7 @@ var config = {
         {
             id: 'other-identifier',
             title: 'And another road through through the Snowys',
-            https: 'https://lh3.googleusercontent.com/l1gfVWY8ZMu8IsaoHuCFpKqpiwOQIRVBAfuiDMcBbTNnjPQDBK8yVNwP3usPlXDJ_DAQ_JFa1QVnG3Y0JIWtylGS_9QL8ZhyU21_t5o02dkJhbOZRO8PRSvxJSea-2T1fTa7dtBkFA=w2400',
+            image: 'https://lh3.googleusercontent.com/l1gfVWY8ZMu8IsaoHuCFpKqpiwOQIRVBAfuiDMcBbTNnjPQDBK8yVNwP3usPlXDJ_DAQ_JFa1QVnG3Y0JIWtylGS_9QL8ZhyU21_t5o02dkJhbOZRO8PRSvxJSea-2T1fTa7dtBkFA=w2400',
             description: '..and up the alpine pass to Yarrongobilly and Tumut. Again, we were lucky to visit before the devestating fires hit out there in December',
             location: {
               center: { lon: 148.33650, lat: -36.10174 },
@@ -134,8 +134,8 @@ var config = {
         {
             id: 'other-identifier',
             title: 'But now back to work',
-            https: 'https://lh3.googleusercontent.com/vkp2WfNYpjGLD-MGTQLudjtqamgRqxsJnGX6BWv5OmC_ZTx-MZIIdsWKvZRd-8XkAHtvBNM05RtWDJrq7SU_3aGfVzE02u4-EvZijnimorK41s9YF-6DDgW15ac_7sdY_0CXSc73VQ=w2400',
-            description: 'and looking forward to working with you all again. But know that i have another job now, and missing this face each and everyday. Thanks for staying with my story till the end!',
+            image: 'https://lh3.googleusercontent.com/vkp2WfNYpjGLD-MGTQLudjtqamgRqxsJnGX6BWv5OmC_ZTx-MZIIdsWKvZRd-8XkAHtvBNM05RtWDJrq7SU_3aGfVzE02u4-EvZijnimorK41s9YF-6DDgW15ac_7sdY_0CXSc73VQ=w2400',
+            description: 'and looking forward to working with you all again. But i have another job now, and missing this face each and everyday. Thanks for staying with my story till the end!',
             location: {
               center: { lon: 151.20251, lat: -33.87253 },
               zoom: 14.16,
