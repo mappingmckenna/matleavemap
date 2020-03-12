@@ -92,7 +92,7 @@ var config = {
         {
             id: 'other-identifier',
             title: 'But we did manage to get away up the coast',
-            https: 'https://lh3.googleusercontent.com/4tzq5JKHjIW-F_xFqIkSCvN0eV5SFr4yOGx21rnaHNyGNIyIm7v3NK0ckTkiMq5vA8iwnSUDL5wnubt3iFyMKSg2bA5Bmnois2aq8FgZFB5_JjL8yeqBhglvjRMX1hUG6PJXZS9VoA=w2400',
+            image: 'https://lh3.googleusercontent.com/4tzq5JKHjIW-F_xFqIkSCvN0eV5SFr4yOGx21rnaHNyGNIyIm7v3NK0ckTkiMq5vA8iwnSUDL5wnubt3iFyMKSg2bA5Bmnois2aq8FgZFB5_JjL8yeqBhglvjRMX1hUG6PJXZS9VoA=w2400',
             description: 'via camping at South West Rocks, and via Bellingen. We left Yamba just before the fires hit up there in September',
             location: {
               center: { lon: 153.02725, lat: -30.91969 },
