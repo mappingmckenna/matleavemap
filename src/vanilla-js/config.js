@@ -1,51 +1,59 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'pk.eyJ1IjoiZWwtcyIsImEiOiJjazdteGc3MDYwaWx2M2RxbTI4M2x5ZDRlIn0.BjC1UivJk2t0b-8ivJafNQ',
-    showMarkers: true,
+    style: 'mapbox://styles/branigan/cjz37rcb003ib1cr3s8rnkt2d',
+    accessToken: 'pk.eyJ1IjoibWJ4c29sdXRpb25zIiwiYSI6ImNrMm01aG9hdTBlZGwzbXQ1ZXVrNHNmejAifQ.QHQA0N6XPWddCXtvoODHZg',
+    showMarkers: false,
     theme: 'light',
-    alignment: 'left',
-    title: 'Wil's story',
-    subtitle: 'A matleave map',
-    byline: 'By Elise',
-    footer: 'Source: source citations, etc.',
+    alignment: 'center',
+    title: 'Glaciers of Glacier National Park',
+    subtitle: 'Change in coverage from 1998 to 2015',
+    byline: '',
+    footer: 'Story copy from Wikipedia, map data from USGS',
     chapters: [
         {
-            id: 'slug-style-id',
-            title: 'Display Title',
-            image: './path/to/image/source.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            id: 'glacier-np',
+            title: 'Glacier National Park Glaciers',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2015-06-19_Glacier_National_Park_%28U.S.%29_8633.jpg/800px-2015-06-19_Glacier_National_Park_%28U.S.%29_8633.jpg',
+            description: 'Glacier National Park is dominated by mountains which were carved into their present shapes by the huge glaciers of the last ice age. These glaciers have largely disappeared over the last 12,000 years. Evidence of widespread glacial action is found throughout the park in the form of U-shaped valleys, cirques, arêtes, and large outflow lakes radiating like fingers from the base of the highest peaks.',
             location: {
-                center: { lon: 151.11490, lat: -34.03661 },
-                zoom: 14.11,
-                pitch: 54.50,
+                center: [-113.91666, 48.66451],
+                zoom: 8,
+                pitch: 0.00,
                 bearing: 0.00
             },
             onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1
-                // }
+                {
+                    layer: 'gnpglaciers-1998',
+                    opacity: 0.25
+                },
+                {
+                    layer: 'glaciernp-boundary',
+                    opacity: 0.25
+                }
             ],
             onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
+              {
+                  layer: 'gnpglaciers-1998',
+                  opacity: 0.25
+              },
+              {
+                  layer: 'glaciernp-boundary',
+                  opacity: 0
+              }
             ]
         },
         {
-            id: 'other-identifier',
-            title: 'Second Title',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            id: 'harrison1998',
+            title: 'Harrison Glacier, 1998',
+            image: '',
+            description: 'Harrison Glacier is located in the US state of Montana in Glacier National Park. Situated on a southeast facing ridge immediately south of Mount Jackson, Harrison Glacier is the largest glacier in Glacier National Park.',
             location: {
-                center: [-77.020636, 38.886900],
-                zoom: 13.5,
-                pitch: 60,
-                bearing: -43.2
+                center: [-113.72917, 48.58938],
+                zoom: 12.92,
+                pitch: 39.50,
+                bearing: 36.00
             },
             onChapterEnter: [],
             onChapterExit: []
         }
     ]
-};
+}
