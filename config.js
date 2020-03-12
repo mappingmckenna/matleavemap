@@ -53,14 +53,14 @@ var config = {
             image: 'https://lh3.googleusercontent.com/p6nkmopmEYS0pMmOiXkz3hzZ_PHgBOGVcNm4Y88CmU61uox3jk9k8OiiUW8_N3O65O_QlPWDZLP1mzxMQQ_6Senyh35i5E-PXtLUiJvl_7IJVkqyE9RKEpwTsGzCll1gv5u0iIUPWA=w2400',
             description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems',
             location: {
-              center: { lon: 151.08067, lat: -34.00225 },
-              zoom: 9.43,
-              pitch: 0.00,
+              center: { lon: 151.08338, lat: -34.00172 },
+              zoom: 11.57,
+              pitch: 59.50,
               bearing: 0.00
             },
             onChapterEnter: [],
             onChapterExit: []
-        },
+            },
         {
             id: 'other-identifier',
             title: 'My original thoughts on mat leave',
@@ -105,7 +105,7 @@ var config = {
         },
         {
             id: 'other-identifier',
-            title: 'And another road through through the Snowys',
+            title: 'And another roadtrip through through the Snowys',
             image: 'https://lh3.googleusercontent.com/lJtCJ-dSpdFS4cdwbVCpmcCmfDkm0YqmcS7jLmDGrAeqMzTZky_ngizJg94g_BLLK1-qm82EdNvYBhG6MPN2Pm6HfwLacdOvuz9VezmG4jYEhlHYitg4B_3sBHi8sP2LICLi0fuglg=w2400',
             description: 'Down to Thredo...',
             location: {
@@ -119,7 +119,7 @@ var config = {
         },
         {
             id: 'other-identifier',
-            title: 'And another road through through the Snowys',
+            title: 'And another roadtrip through through the Snowys',
             image: 'https://lh3.googleusercontent.com/l1gfVWY8ZMu8IsaoHuCFpKqpiwOQIRVBAfuiDMcBbTNnjPQDBK8yVNwP3usPlXDJ_DAQ_JFa1QVnG3Y0JIWtylGS_9QL8ZhyU21_t5o02dkJhbOZRO8PRSvxJSea-2T1fTa7dtBkFA=w2400',
             description: '..and up the alpine pass to Yarrongobilly and Tumut. Again, we were lucky to visit before the devestating fires hit out there in December',
             location: {
