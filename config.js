@@ -12,8 +12,8 @@ var config = {
         {
             id: 'slug-style-id',
             title: 'Display Title',
-            image: './path/to/image/source.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            image: 'https://lh3.googleusercontent.com/mNT4dsy3_sn00hNtLRNU9dZQ1qa2tN9ePhkpPfrfCGzlUDz0y4R0owCyvfVH5kh9MTeV3WfyOc8faR1byVJCCSbM6ht0ONG-4WI_sS-PqoS8rT84Ggyp4cZ41QJUGgf-zklgyifXuQ=w2400',
+            description: 'Nature time',
             location: {
                 center: { lon: 151.11490, lat: -34.03661 },
                 zoom: 14.11,
