@@ -50,22 +50,8 @@ var config = {
         {
             id: 'other-identifier',
             title: 'But we spent alot of time at home',
-            https: '//lh3.googleusercontent.com/ayLWzd8PLyAKA6kCtXv4kixFlzYHNKUJl5s-3G5TNjvWNN8L5OUP7F99RgwQ4svH9tdjqqdWbL2mDJ9BtR7wumzXN8BaqQxObtAqKDQV0kUK3YtaCv8XPI6HKV9AT1dT1F2e2MluHQ=w2400',
+            https: 'https://lh3.googleusercontent.com/p6nkmopmEYS0pMmOiXkz3hzZ_PHgBOGVcNm4Y88CmU61uox3jk9k8OiiUW8_N3O65O_QlPWDZLP1mzxMQQ_6Senyh35i5E-PXtLUiJvl_7IJVkqyE9RKEpwTsGzCll1gv5u0iIUPWA=w2400',
             description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems',
-            location: {
-              center: { lon: 151.08067, lat: -34.00225 },
-                zoom: 9.43,
-                pitch: 0.00,
-                bearing: 0.00
-            },
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'other-identifier',
-            title: 'My original thoughts on mat leave',
-            https: 'https://lh3.googleusercontent.com/b4F88OBL9KR1micV3s3EI3UC1gF9Yg1CSYlBhb1AR05xEkQHcLbiH40LW_eLHJ_n5m1NscQ2qU6vVLOvbGgE_Xq756yoTi-VgV36-Qb9XK0H5ueEcUK5YGE0td-Htw7IFM5i02zOlQ=w2400',
-            description: 'I knew this already, but all you mums out there ARE SUPERHUMAN',
             location: {
               center: { lon: 151.08067, lat: -34.00225 },
                 zoom: 9.43,
@@ -81,10 +67,38 @@ var config = {
             https: 'https://lh3.googleusercontent.com/b4F88OBL9KR1micV3s3EI3UC1gF9Yg1CSYlBhb1AR05xEkQHcLbiH40LW_eLHJ_n5m1NscQ2qU6vVLOvbGgE_Xq756yoTi-VgV36-Qb9XK0H5ueEcUK5YGE0td-Htw7IFM5i02zOlQ=w2400',
             description: 'I knew this already, but all you mums out there ARE SUPERHUMAN and deserve to be celebrated every day of the year',
             location: {
-              center: { lon: 151.08067, lat: -34.00225 },
-                zoom: 9.43,
-                pitch: 0.00,
-                bearing: 0.00
+              center: { lon: 150.96572, lat: -34.10155 },
+              zoom: 7.65,
+              pitch: 0.50,
+              bearing: 0.00
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'We did manage to get away a few times',
+            https: 'https://lh3.googleusercontent.com/018A7aaw6eCL93dhqp5T55UWW6NHsRikNJbHQjmJd96uYkQNiEb8hnJHrVMJYw00h93Z8vPltoSIfYKoh2yiV_XUppAix76O1NZL2o8FAxghESoRTM6u8jAs4BEJRma8xaCYkN8Utw=w2400',
+            description: 'For a road trip up to Yamba, via blueys beach',
+            location: {
+              center: { lon: 152.49518, lat: -32.35828 },
+              zoom: 7.65,
+              pitch: 0.50,
+              bearing: 0.00
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'But we did manage to get away up the coast',
+            https: 'https://lh3.googleusercontent.com/4tzq5JKHjIW-F_xFqIkSCvN0eV5SFr4yOGx21rnaHNyGNIyIm7v3NK0ckTkiMq5vA8iwnSUDL5wnubt3iFyMKSg2bA5Bmnois2aq8FgZFB5_JjL8yeqBhglvjRMX1hUG6PJXZS9VoA=w2400',
+            description: 'via camping at South West Rocks, and via Bellingen. We left Yamba just before the fires hit up there in September',
+            location: {
+              center: { lon: 153.02725, lat: -30.91969 },
+              zoom: 7.65,
+              pitch: 0.50,
+              bearing: 0.00
             },
             onChapterEnter: [],
             onChapterExit: []
