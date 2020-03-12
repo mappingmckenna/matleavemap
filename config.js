@@ -11,9 +11,9 @@ var config = {
     chapters: [
         {
             id: 'slug-style-id',
-            title: 'Display Title',
-            image: 'https://lh3.googleusercontent.com/mNT4dsy3_sn00hNtLRNU9dZQ1qa2tN9ePhkpPfrfCGzlUDz0y4R0owCyvfVH5kh9MTeV3WfyOc8faR1byVJCCSbM6ht0ONG-4WI_sS-PqoS8rT84Ggyp4cZ41QJUGgf-zklgyifXuQ=w2400',
-            description: 'Nature time',
+            title: 'Born at Sutherland Hospital',
+            image: 'https://lh3.googleusercontent.com/e_TUD7Zr_0SmqBgLZEdu8II_D01RirC2DMWgnRAKSTPvXuQIthH3O7ADMjdG7FjZUvU8qkglNqjVeoCb6ayG9-iBljVxd7X_fio83fY5BY2aewAUDwJTzINuvfB5IbMWujiUaem6_w=w2400',
+            description: 'In April 19, after 17 hours of labour... and thats all i will say about that',
             location: {
                 center: { lon: 151.11490, lat: -34.03661 },
                 zoom: 14.11,
@@ -35,14 +35,28 @@ var config = {
         },
         {
             id: 'other-identifier',
-            title: 'Second Title',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            title: 'Still in shellshock',
+            image: 'https://lh3.googleusercontent.com/TCUFgtj8jr04JAA8D4dpgKHTYABosHqfnf0mNGVcM-wfu5DTLNEfrPBOROJKuYbyS3U2GVWicNc8YzsQdmVEXn-wZZCgWQOtRmKyBhMXygeG-RwogBNo5Dy4GT3xRTmT4v6NUBnE5A=w2400',
+            description: 'But getting into nature helped. This is his first bushwalk, in the RNP',
             location: {
-                center: [-77.020636, 38.886900],
-                zoom: 13.5,
-                pitch: 60,
-                bearing: -43.2
+              center: { lon: 151.06152, lat: -34.06264 },
+              zoom: 11.32,
+              pitch: 45.00,
+              bearing: 3.25
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'But we spent alot of time at home',
+            https: '//lh3.googleusercontent.com/ayLWzd8PLyAKA6kCtXv4kixFlzYHNKUJl5s-3G5TNjvWNN8L5OUP7F99RgwQ4svH9tdjqqdWbL2mDJ9BtR7wumzXN8BaqQxObtAqKDQV0kUK3YtaCv8XPI6HKV9AT1dT1F2e2MluHQ=w2400',
+            description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems, ',
+            location: {
+              center: { lon: 151.08067, lat: -34.00225 },
+                zoom: 9.43,
+                pitch: 0.00,
+                bearing: 0.00
             },
             onChapterEnter: [],
             onChapterExit: []
