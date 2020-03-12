@@ -4,7 +4,7 @@ var config = {
     showMarkers: true,
     theme: 'light',
     alignment: 'left',
-    title: 'Wil's story',
+    title: 'Wils story',
     subtitle: 'A matleave map',
     byline: 'By Elise',
     footer: 'Source: source citations, etc.',
