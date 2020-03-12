@@ -48,28 +48,14 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'tester',
-            title: 'Title',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
-            location: {
-                center: [-77.020636, 38.886900],
-                zoom: 13.5,
-                pitch: 60,
-                bearing: -43.2
-            },
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: 'home',
             title: 'But we spent alot of time at home',
             image: 'https://lh3.googleusercontent.com/p6nkmopmEYS0pMmOiXkz3hzZ_PHgBOGVcNm4Y88CmU61uox3jk9k8OiiUW8_N3O65O_QlPWDZLP1mzxMQQ_6Senyh35i5E-PXtLUiJvl_7IJVkqyE9RKEpwTsGzCll1gv5u0iIUPWA=w2400',
             description: 'Not pictured: sleepless nights, tears, feeding problems, sleep problems',
             location: {
-                center: { lon: 151.11490, lat: -34.03661 },
+                center: { lon: 151.08146, lat: -34.00251 },
                 zoom: 14.11,
-                pitch: 54.50,
+                pitch: 38.50,
                 bearing: 0.00
             },
             onChapterEnter: [],
@@ -82,7 +68,7 @@ var config = {
             description: 'I knew this already, but all you mums out there ARE SUPERHUMAN and deserve to be celebrated every day of the year',
             location: {
                 center: { lon: 151.11490, lat: -34.03661 },
-                zoom: 14.11,
+                zoom: 10.42,
                 pitch: 54.50,
                 bearing: 0.00
             },
