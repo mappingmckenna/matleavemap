@@ -53,9 +53,9 @@ var config = {
             image: 'https://lh3.googleusercontent.com/p6nkmopmEYS0pMmOiXkz3hzZ_PHgBOGVcNm4Y88CmU61uox3jk9k8OiiUW8_N3O65O_QlPWDZLP1mzxMQQ_6Senyh35i5E-PXtLUiJvl_7IJVkqyE9RKEpwTsGzCll1gv5u0iIUPWA=w2400',
             description: 'But getting into nature helped. This is his first bushwalk, in the RNP',
             location: {
-                center: { lon: 151.11490, lat: -34.03661 },
-                zoom: 14.11,
-                pitch: 54.50,
+                center: { lon: 151.08338, lat: -34.00172 },
+                zoom: 11.57,
+                pitch: 59.50,
                 bearing: 0.00
             },
             onChapterEnter: [],
@@ -95,9 +95,9 @@ var config = {
             image: 'https://lh3.googleusercontent.com/018A7aaw6eCL93dhqp5T55UWW6NHsRikNJbHQjmJd96uYkQNiEb8hnJHrVMJYw00h93Z8vPltoSIfYKoh2yiV_XUppAix76O1NZL2o8FAxghESoRTM6u8jAs4BEJRma8xaCYkN8Utw=w2400',
             description: 'For a road trip up to Yamba, via blueys beach',
             location: {
-                center: { lon: 151.11490, lat: -34.03661 },
-                zoom: 14.11,
-                pitch: 54.50,
+                center: { lon: 152.53221, lat: -32.35166 },
+                zoom: 8.57,
+                pitch: 59.50,
                 bearing: 0.00
             },
             onChapterEnter: [],
